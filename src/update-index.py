@@ -75,8 +75,8 @@ def build_today_table(files: list[tuple[Path, dict, date]], lang: str) -> str:
     todays = [(p, fm, d) for p, fm, d in files if d == today]
     if not todays:
         return {
-            "en": "*No projects grabbed today yet.*",
-            "zh": "*今天还没有抓取项目。*",
+            "en": "*No projects picked today yet.*",
+            "zh": "*今天还没有精选项目。*",
         }[lang]
 
     lines = _table_header(lang)
@@ -96,8 +96,8 @@ def build_week_table(files: list[tuple[Path, dict, date]], lang: str) -> str:
     weeks = [(p, fm, d) for p, fm, d in files if monday <= d <= sunday]
     if not weeks:
         return {
-            "en": "*No projects grabbed this week yet.*",
-            "zh": "*本周还没有抓取项目。*",
+            "en": "*No projects picked this week yet.*",
+            "zh": "*本周还没有精选项目。*",
         }[lang]
 
     lines = _table_header(lang)
