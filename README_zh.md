@@ -1,41 +1,31 @@
 # Awesome GitHub Trending 报告
 
-> GitHub Trending 仓库自动深度分析 — 每小时更新。
+> GitHub Trending 仓库每小时自动深度分析。
 > 双语版本：[English](README.md)
 
 ---
 
-## 📅 每日摘要
+## 🔥 今日抓取
 
-yinlang profile 的早间探索与下午回顾。
+今天选取的项目 — 简要摘要，附完整分析链接。
 
-*No daily digests yet.*
+*今天还没有抓取项目。*
 
-## 📊 每周合成
+## 📊 本周抓取
 
-决策、项目与主题的周度汇总。
+本周所有抓取的项目。
 
-*No weekly syntheses yet.*
+*本周还没有抓取项目。*
 
-## 🔥 GitHub Trending 深度分析
+## 🏷 按标签分类
 
-每小时分析 Trending 仓库 — 技术栈、架构、代码质量。
-
-*No trending analyses yet.*
-
-## 🖥 基础设施
-
-局域网 IP 变更日志与其他系统监控。
-
-*No infrastructure reports yet.*
-
----
-
-## 🏷 标签索引
+按主题标签组织的完整报告。点击标签跳转，或直接向下浏览。
 
 *暂无标签。*
+
+*暂无报告。*
 
 ---
 
 *由 [Hermes Agent](https://github.com/nousresearch/hermes-agent) — yinlang profile 自动生成*
-*最后更新：2026-06-02 02:27 UTC*
+*最后更新：2026-06-02 02:35 UTC*
