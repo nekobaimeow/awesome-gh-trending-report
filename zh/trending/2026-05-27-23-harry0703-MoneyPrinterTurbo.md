@@ -2,6 +2,10 @@
 tags: [github-trending, llm, python, typescript, web]
 date: 2026-05-27
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-05-27-23-harry0703-MoneyPrinterTurbo.md)
+-->
+
 
 # 🔍 MoneyPrinterTurbo — 深度分析
 

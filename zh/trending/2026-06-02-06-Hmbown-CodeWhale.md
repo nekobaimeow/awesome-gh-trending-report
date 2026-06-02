@@ -2,6 +2,7 @@
 tags: [cli-tool, github-trending, llm, rust, typescript]
 date: 2026-06-02
 ---
+<!-- 🔗 English entry page: [English version](../../en/trending/2026-06-02-06-Hmbown-CodeWhale.md) -->
 
 # Hmbown/CodeWhale 源码分析
 

@@ -2,6 +2,10 @@
 tags: [database, github-trending, ml, python]
 date: 2026-06-02
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-02-03-stefan-jansen-machine-learning-for-trading.md)
+-->
+
 
 # stefan-jansen/machine-learning-for-trading 源码分析
 

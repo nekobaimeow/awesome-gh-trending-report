@@ -2,6 +2,10 @@
 tags: [cpp, gamedev, github-trending, web]
 date: 2026-06-01
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-01-22-godotengine-godot.md)
+-->
+
 
 # godotengine/godot 源码分析
 

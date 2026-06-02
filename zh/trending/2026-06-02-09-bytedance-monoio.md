@@ -2,6 +2,7 @@
 tags: [github-trending, rust]
 date: 2026-06-02
 ---
+<!-- 🔗 English entry page: [English version](../../en/trending/2026-06-02-09-bytedance-monoio.md) -->
 
 # bytedance/monoio 源码分析
 

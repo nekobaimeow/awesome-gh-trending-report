@@ -24,6 +24,6 @@ COMMIT_MSG="auto: $(date -u +'%Y-%m-%d %H:%M UTC') — ${CHANGED:0:200}"
 git commit -m "$COMMIT_MSG"
 
 # 4. Push
-git push origin master 2>&1
+git push origin main 2>&1
 
 echo "🚀 Published successfully."

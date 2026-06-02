@@ -2,6 +2,10 @@
 tags: [github-trending, typescript, web]
 date: 2026-06-01
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-01-14-atata-framework-atata.md)
+-->
+
 
 # Atata 源码分析报告
 

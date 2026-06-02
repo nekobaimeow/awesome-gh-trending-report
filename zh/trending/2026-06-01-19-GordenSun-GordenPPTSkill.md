@@ -2,6 +2,10 @@
 tags: [ai-agents, github-trending, llm, python]
 date: 2026-06-01
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-01-19-GordenSun-GordenPPTSkill.md)
+-->
+
 
 # GordenSun/GordenPPTSkill 源码分析报告
 

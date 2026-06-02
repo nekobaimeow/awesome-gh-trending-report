@@ -2,6 +2,10 @@
 tags: [cli-tool, github-trending, llm, python, typescript]
 date: 2026-06-01
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-01-23-KylinMountain-TradingAgents-AShare.md)
+-->
+
 
 # KylinMountain/TradingAgents-AShare 源码分析
 

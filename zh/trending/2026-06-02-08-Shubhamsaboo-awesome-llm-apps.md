@@ -2,6 +2,7 @@
 tags: [ai-agents, github-trending, llm, python, typescript]
 date: 2026-06-02
 ---
+<!-- 🔗 English entry page: [English version](../../en/trending/2026-06-02-08-Shubhamsaboo-awesome-llm-apps.md) -->
 
 # Shubhamsaboo/awesome-llm-apps 源码分析报告
 

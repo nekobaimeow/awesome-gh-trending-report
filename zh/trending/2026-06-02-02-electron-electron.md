@@ -2,6 +2,10 @@
 tags: [cli-tool, cpp, github-trending, systems, typescript]
 date: 2026-06-02
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-02-02-electron-electron.md)
+-->
+
 
 # electron/electron 源码分析报告
 

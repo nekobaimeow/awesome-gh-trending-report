@@ -2,6 +2,10 @@
 tags: [github-trending, web]
 date: 2026-06-02
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-02-05-ossu-computer-science.md)
+-->
+
 
 # ossu/computer-science 源码分析报告
 

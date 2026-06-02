@@ -2,6 +2,10 @@
 tags: [ai-agents, github-trending, llm, rust, typescript]
 date: 2026-06-02
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-02-04-dmtrKovalenko-fff.md)
+-->
+
 
 # dmtrKovalenko/fff 源码分析
 

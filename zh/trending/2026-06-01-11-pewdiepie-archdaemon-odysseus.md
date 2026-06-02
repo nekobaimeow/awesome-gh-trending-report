@@ -2,6 +2,10 @@
 tags: [database, github-trending, llm, python, typescript]
 date: 2026-06-01
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-01-11-pewdiepie-archdaemon-odysseus.md)
+-->
+
 
 # Odysseus 源码分析报告
 

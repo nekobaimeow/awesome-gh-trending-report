@@ -2,6 +2,10 @@
 tags: [cli-tool, gamedev, github-trending, web]
 date: 2026-06-02
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-02-01-github-gitignore.md)
+-->
+
 
 ## 🔍 项目简介
 

@@ -2,6 +2,10 @@
 tags: [ai-agents, cli-tool, github-trending, llm, typescript]
 date: 2026-06-01
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-01-18-a5c-ai-babysitter.md)
+-->
+
 
 # a5c-ai/babysitter 源码分析报告
 

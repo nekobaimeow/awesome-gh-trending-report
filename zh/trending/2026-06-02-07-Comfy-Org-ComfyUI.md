@@ -2,6 +2,7 @@
 tags: [data-engineering, database, github-trending, python, typescript]
 date: 2026-06-02
 ---
+<!-- 🔗 English entry page: [English version](../../en/trending/2026-06-02-07-Comfy-Org-ComfyUI.md) -->
 
 # Comfy-Org/ComfyUI 源码分析
 

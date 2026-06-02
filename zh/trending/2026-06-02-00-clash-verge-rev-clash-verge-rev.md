@@ -2,6 +2,10 @@
 tags: [github-trending, rust, typescript]
 date: 2026-06-02
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-02-00-clash-verge-rev-clash-verge-rev.md)
+-->
+
 
 # clash-verge-rev/clash-verge-rev 源码分析
 

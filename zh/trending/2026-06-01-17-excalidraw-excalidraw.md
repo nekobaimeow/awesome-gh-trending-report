@@ -2,6 +2,10 @@
 tags: [github-trending, security, typescript, web]
 date: 2026-06-01
 ---
+<!-- 
+  📖 English summary available at: [English version](../../en/trending/2026-06-01-17-excalidraw-excalidraw.md)
+-->
+
 
 # excalidraw/excalidraw 源码分析报告
 
